@@ -19,6 +19,8 @@ function fecharMes(listaDeContas) {
 
 fecharMes(contas);
 
+console.log(contas[0].extrato);
+
 try {
     new Conta("0003", "Carla Dias");
 } catch (e) {
