@@ -5,8 +5,8 @@
 
 ## Sobre
 
-Aplicação fullstack (API Express em camadas + SQLite + frontend Bootstrap com Vanilla JS).
-O domínio do projeto será definido na Semana 2.
+Aplicação de mapas mentais e fluxogramas no estilo canvas.
+**Domínio:** criação de mapas mentais e diagramas visuais. A modelagem está em [MODELAGEM.md](MODELAGEM.md).
 
 ## Estrutura
 
